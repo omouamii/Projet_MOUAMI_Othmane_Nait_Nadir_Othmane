@@ -1,0 +1,22 @@
+ gcc -g -Wall ex10.c -o ex10 -lvirt
+ gcc -g -Wall ex11.c -o ex11 -lvirt
+ gcc -g -Wall ex12.c -o ex12 -lvirt 
+ gcc -g -Wall ex13.c -o ex13 -lvirt 
+ gcc -g -Wall ex14.c -o ex14 -lvirt 
+ gcc -g -Wall ex15.c -o ex15 -lvirt 
+ gcc -g -Wall ex16.c -o ex16 -lvirt 
+ gcc -g -Wall ex17.c -o ex17 -lvirt 
+ gcc -g -Wall ex18.c -o ex18 -lvirt 
+ gcc -g -Wall ex19.c -o ex19 -lvirt 
+ gcc -g -Wall ex1.c -o ex -lvirt 
+ gcc -g -Wall ex20.c -o ex20 -lvirt 
+ gcc -g -Wall ex21.c -o ex21 -lvirt 
+ gcc -g -Wall ex22.c -o ex22 -lvirt 
+ gcc -g -Wall ex28.c -o ex28 -lvirt 
+ gcc -g -Wall ex2.c -o ex2 -lvirt 
+ gcc -g -Wall ex3.c -o ex3 -lvirt 
+ gcc -g -Wall ex4.c -o ex4 -lvirt 
+ gcc -g -Wall ex5.c -o ex5 -lvirt 
+ gcc -g -Wall ex8.c -o ex8 -lvirt 
+ gcc -g -Wall ex9.c -o ex9 -lvirt 
+

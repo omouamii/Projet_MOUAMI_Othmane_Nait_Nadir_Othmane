@@ -1,0 +1,6 @@
+VM-MINI-Projet
+VM_linux
+VM_test
+debian13-2
+debian13-2(clone)
+machine_clone
